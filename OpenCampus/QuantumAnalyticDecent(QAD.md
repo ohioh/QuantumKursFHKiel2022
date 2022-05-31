@@ -1,1 +1,0 @@
-### Quantum Analytic Decent
